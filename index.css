@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+  }
+  
+  *{
+    margin :0;
+    padding :0;
+  }
+  
+  #head {
+    font-size: 90px;
+    font-family: arial;
+    word-spacing: 3px;
+    color :rgb(163, 64, 64);
+    margin-bottom :80px;
+  }
+
+  #container {
+    border:none;
+    width: 600px;
+    margin: auto;
+    padding : 20px;
+    font-size : 20px;
+    font-family : arial;
+    border-radius :10px;
+    background-color :rgba(220,0,0,0.7);
+    box-shadow :10px 10px 10px black;
+  }
+  
+  .input{
+    font-size : 20px;
+    font-family : arial;
+    padding : 5px;
+  }
+
+  .button {
+    font-size :25px;
+    font-family : arial;
+    background-color :rgba(0,0,255,0.9);
+    color : #fff;
+    padding :10px;
+    border :none;
+    border-radius :10px;
+  }
+  
+  #wlabel, #hlabel, #bmilabel{
+    color :#fff;
+  }
